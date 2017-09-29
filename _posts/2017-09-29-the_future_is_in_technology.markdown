@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "The future is in technology"
+date:   2017-09-29 17:11:10 +0000
+---
+
+
+    As a kid I always envisioned what the future would look like. Having grown up to movies like *Star Wars* and books like *Ender's Game* I became excited about what the futuer will hold. My mind went wild. Autonomous-flying cars, space travel and maybe even the occasional DeathStar soared through my mind. The future was limitless and unpredictable. Perhaps what I was thinking the future would look like was far off. Maybe something drastic would happen, completely changing the way society thinks and acts. Then it hit me. The future was not some random set of events, rather it was a created and orchestrated set of circumstances. Sure some inventions happened by chance, but many were created with a definite goal in mind. From then on I knew it would one day be my turn to determine the future of mankind, regardless of how small or big my impacts may be. 
+		
+		This drive continued throghout my life, however as we always say "life happens" and things did not go as planned. Something caused me to venture off of my planned technological escapade. I became focused on being an "entrepreneur". I followed all of the best in the game, learning how to create a "happy life". I mean that is what life is all about right? After college I started a business that delved into internet marketing. I picked up a few clients and made OK money, but I was still not happy. I needed to figure out why. So I started traveling and doing things I thought I loved, but something still was not quite right. I felt like a part of me was missing. I knew I had the entrepreneurial spirit, but that just was not cutting it. Then it dawned on me. My idol is Elon Musk, I am always out searching for the latest in technology, I am continuously reading about the newest tech trends and what is predicted to be right around the corner, yet I was not the one making those realities come true. I was watching as people were achieving their dreams, the same dreams I had as a kid. 
+		
+		In that moment of realization my heart started racing, my thoughts flew by and my dream was once again visible. I was not going to leave my childhood dreams behind anymore. So I have set about learning how to build the latest in technology, no longer wanting the role of spectator. I did some research and realized learning to become a programmer/web devoloper was a fantastic start. it will give me the knowledge to turn ideas into reality. It will also allow me to work in the field of my dreams, while I continue the quest for knowledge in things like robotics, deep learning and virtual reality. I will also be able to help out companies by developing software that will promote efficiency and increase their capabilities in the long run. 
+		
+		Simply put, the capabilities of programming are nearly infinite, stretching across all fields and disciplines. Being able to visualize an idea and make it a reality is something that gets me excited and motivated. Taking the web developers course at Flatiron has been one of the greatest choices I have made for myself and my future. I am beyond grateful for what is to come and excited for what the future holds. 
+
+
