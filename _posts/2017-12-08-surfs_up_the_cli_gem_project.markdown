@@ -229,7 +229,6 @@ Now time to publish the gem! It is actually very simple. First, make sure you ha
 
 I must reiterate, this has been the single best thing to happen to my programming career. I feel way more confident about coding. This is not solely because throughout this process I have become a better programmer, but because of all of my failures and errors throughout the process, I became much more able and adept to handling those errors. I have grown in these few days from creation to completion in a manner not really describable. It has truly reinforced my desire to continue and really learn programming and technology on general, intellectual and visceral levels.
 
-I attempted to hit the key points where I know i struggled the most or where I feel others might have issues. For me, just getting started from creating the gem using bundler to understanding the command prompt commands was a tough experience. Because of that I learned a lot and thought it would only be right share any bit of help and advice I can. 
-
+I attempted to hit the key points where I know i struggled the most or where I feel others might have issues. For me, just getting started from creating the gem using bundler to understanding the command prompt commands was a tough experience. Because of that I learned a lot and thought it would only be right share any bit of help and advice I can.
 
 
