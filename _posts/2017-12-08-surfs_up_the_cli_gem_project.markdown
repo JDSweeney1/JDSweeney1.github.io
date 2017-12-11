@@ -63,7 +63,7 @@ require 'pry'
 require 'rspec' 
 ```
 
-There are too many gems to specifially list them all, however, search around and you will find some neat and extremely helpful gem libraries. Once you have all of your dependencies listed, simply type `$ bundle install` into your terminal. Now all of your dependencies are installed, congratulations! If you want more information on using bundler click [On these blue words](http://bundler.io/) or how to use bundler to create a gem click [On these other blue words](https://bundler.io/v1.16/guides/creating_gem.html).
+There are too many gems to specifially list them all, however, search around and you will find some neat and extremely helpful gem libraries. Once you have all of your dependencies listed, simply type `$ bundle install` into your terminal. Now all of your dependencies are installed, congratulations! If you want more information on using bundler click [Here](http://bundler.io/) or how to use bundler to create a gem click [Here](https://bundler.io/v1.16/guides/creating_gem.html).
 
 ## daily_surfing time!
 
@@ -76,19 +76,19 @@ To start with, I used bundler as explained above. Initiating the project with  `
 When it came to the substance of the program, I felt fairly comfortable. The full stack program had up to this point, prepared me well. I had a decent enough understanding of how objects worked with one another how they were each responsible for their own duties. I am not going to go into minute detail about every step I took to code the program, but I will go over some challenges and explain a way to possibly overcome them.
 
 
-### Challenges
+## Challenges
 
-##### Getting started
+### Getting started
 
 This can be a very daunting task. You know **what** you want to do, now you have to figure out **how** to do it. I found out that the best way to get started is, well... to start. it may sound reduntant, but I guarentee you its not. It is too easy to stare blankly frozen at an empty project, but once you start to make the first moves, whether they are the right ones or not, it will help get your mind flowing and your confidence growing. 
 
 Secondly, as avi mentions in this [video](https://www.youtube.com/watch?v=_lDExWIhYKI), use fake data or test data to make sure your structure is sound. This way, once you get everything working with the fake data, you know that the real data that you scrape will work! 
 
-##### Creating an environment
+### Creating an environment
 
 This to me is absolutely critical in my opinion(which is a great opinion if I may say so myself). You do not need the hassle of requiring everything on every file. That just becomes frustrating and time consuming. Also, once something breaks, you're in trouble. Make sure you environment contains all the needed requirements from gems to files, then simply require your environment inside the files you use to test and to actually run the program(console.rb and daily_surf.rb in my case). Much easier than going around and requiring everything. 
 
-##### Refactoring
+### Refactoring
 
 The goal is to make the program work. Once that is complete, it is time to refactor and make the code look pretty. As is frequently mentioned, the best way to start refactoring is to find patterns in the code. If you notice a series of methods whether class or instance, there is a good bet that they can be refactored into a single or few methods that encapsulate the repeating code. Then transmute the code to the disired function by altering it slightly in the code that was just refactored. For example, lets use some code from inside my gem:
 
@@ -178,7 +178,7 @@ def self.output_palm_beach
 
 It's obvious to see the redundancies. Thus here is the refactored code!
 
-````
+```
  def self.output_broward_miami_dade
    report = Scraper.broward_miami_dade
    self.cli_outline(report)
