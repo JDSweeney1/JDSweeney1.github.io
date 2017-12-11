@@ -1,13 +1,13 @@
 ---
 layout: post
 title:      "Surfs Up! The CLI Gem Project"
-date:       2017-12-09 01:07:01 +0000
+date:       2017-12-08 20:07:02 -0500
 permalink:  surfs_up_the_cli_gem_project
 ---
 
 
 
-   Wow, what an expeirence. Going through the program, I often worried I was missing some key points or there was a major section I had missed. All of this was due to the fact that I had not yet gone through a project from start to finish, therefore unable to judge how well I knew my stuff. This is where all of that was put to rest. I knew it all... 
+   Wow, what an experience. Going through the program, I often worried I was missing some key points or there was a major section I had missed. All of this was due to the fact that I had not yet gone through a project from start to finish, therefore unable to judge how well I knew my stuff. This is where all of that was put to rest. I knew it all... 
 
 
    Who am I kidding?? I started this project like a dog who got his head stuck in the bag of chips he wasn't supposed to be eating (`fido = Dog.bad`). I was lost, confused and thought 'well, this is how it ends'.  Seriously, On top of that, I thought that this, of all the lessons available, would be a fantastic time to move from Learn IDE to using the Command prompt and Atom. Go me! 
